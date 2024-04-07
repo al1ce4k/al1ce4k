@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alice
 - 👀 I’m interested in Rizz
 - 🌱 I’m currently learning Autism
-- 📫 Discord: al1ce4k
+- 📫 Discord: al1ce4kk
 - ⚡ Fun fact: I can't code
 
 <!---
