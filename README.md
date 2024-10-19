@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Alice
-- 👀 I’m interested in PS3 Emulation and other diverse emulation topics.
-- 🌱 I’m currently learning JavaScript
-- 📫 Discord: al1ce4kk
-- ⚡ Fun fact: I ate a bottle of glue when i was younger
+- 👋 hi i buny alice
+- 👀 i like carot
+- 🌱 im curent.y buny
+- 📫 mail@slungus.online
 
 <!---
 al1ce4k/al1ce4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
